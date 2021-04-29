@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Tips</string>
+    <string name="tab_text_1">Tip 1</string>
+    <string name="tab_text_2">Tip 2</string>
+    <string name="tab_text_3">Tip 3</string>
+
+    <string name="tip_1_title">Usa un controlador de versiones para tu codigo</string>
+    <string name="tip_1_body">Esta ya no es una opcion sino que llega a ser practicamente obligatorio ya en el mundo laboral y por lo que si aun no trabajar de manera formal no esta de mas adoptar esta practica</string>
+    <string name="tip_2_title">Usa un cliente remoto para alojar tu codigo</string>
+    <string name="tip_2_body">Tomando siempre base del primer tip, esta es una manera excelente para trabajar en equipo donde con un par de comandos se puedae acceder al trabajo del equipo</string>
+    <string name="tip_3_title">Clean Code</string>
+    <string name="tip_3_body">Trabajar limpio es importante para proyectos a largo plazo y seguir siertas pautas o reglas que permitan hacer un codigo mas legible ayudara al desarrollador que retome el proyecto en un futuro</string>
+    <string name="btn_back">Regresar</string>
+    <string name="btn_home">Home</string>
+    <string name="btn_next">Siguiente</string>
+    <string-array name="titles">
+        <item>Use Git</item>
+        <item>Use Git</item>
+        <item>Use Git</item>
+    </string-array>
+</resources>
